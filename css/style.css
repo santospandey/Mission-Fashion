@@ -1,0 +1,221 @@
+.logo{	
+	padding-top: 2px;		
+	float: left;	
+	padding-left: 20px;		
+}
+
+.logo img{
+	display: block;	
+}
+
+.slider img{
+	width:100%;
+	height: 100%;
+}
+
+.anchor{
+	width:19.14191419141914%;	
+	margin:0px auto;	
+}
+
+.anchor img{	
+
+}
+
+.anchorText{
+	padding-top:50px;
+	padding-bottom:30px;
+	width:27.22772277227723%;
+	margin:0px auto;
+	font-size:25px;
+	font-family:volkorn;
+	font-weight: bold;
+	color:white;
+}
+
+.missionFashion{
+	font-size: 48pt;
+	padding:24px;
+	width: 51.15511551155116%;
+	margin: 0px auto;
+	color:white;
+	border:5px solid white;	
+}
+
+.purchaseTheme{
+	font-size:22px;
+	color:white;
+	padding:30px 0px;
+	margin:0px auto;
+	width: 28.87788778877888%;	
+	text-align: center;
+}
+
+.nextPage{
+	width: 100px;
+	height: 52px;
+	padding-bottom: 9.114583333333333%;
+	margin:0px auto;
+}
+
+/*parent class in the service class.
+*/
+.parentClass{
+	/*max-width: 25%;*/
+	padding-top: 100px;
+	padding-left: 19px;
+	padding-right: 19px;
+	padding-bottom: 128px;	
+	float: left;
+	background-color: skyblue;	
+	text-align: center;
+}
+
+.parentClass img{
+
+}
+
+.parentClass .header{
+	color:black;
+	font-size: 18px;
+	font-family: lato;
+	font-weight: bold;
+	padding-top:50px;
+	text-align: center;
+}
+
+.parentClass p{
+	padding-bottom: 40px;
+	font-family: vollkorn;
+	font-size: 15px;
+	line-height: 24px;
+}
+
+.parentClass .bar{	
+	padding-right: 0px;			
+}
+
+.parentClass .readMore{		
+	background-color: blue;
+	padding:14px 24px;	
+	font-family: lato;
+	font-weight: bold;
+	font-size: 14px;
+	color:white;	
+}
+
+.onlineBooking{
+
+}
+
+.onlineBooking img{
+	padding-right: 6px;
+}
+
+.onlineBooking:hover img{	
+	background-image: url("../images/icon3.png");	
+}
+
+.onlineBooking:hover .readMore{	
+	background-color: white;
+	color:black;
+}
+
+.onlineBooking:hover .bar{
+	background-image: url("../images/blackbar.png");
+}
+
+.menFashions{
+
+}
+
+.menFashions:hover img{
+	background-image: url("../images/icon3.png");
+}
+
+.menFashions:hover .readMore{
+	background-color: white;
+	color:black;	
+}
+
+.menFashions:hover .bar{
+	background-image: url("../images/blackbar.png");
+}
+
+
+.ladyFashions{
+
+}
+
+.ladyFashions:hover img{
+	background-image: url("../images/icon4.png");
+}
+
+.ladyFashions:hover .readMore{
+	background-color: white;
+	color: black;
+}
+
+.ladyFashions:hover .bar{
+	background-image: url("../images/blackbar.png");	
+}
+
+.creativeStyles{	
+
+}
+
+.creativeStyles:hover img{
+	background-image: url("../images/icon2.png");
+}
+
+.creativeStyles:hover .readMore{
+	background-color: white;
+	color: black;
+}
+
+.creativeStyles:hover .bar{
+	background-image: url("../images/blackbar.png");		
+}
+
+.downloads{
+	width: 50%;	
+	float: left;
+	background-color: black;
+}
+
+.downloads .image1{			
+	padding-top: 80px;
+	text-align: center;
+}
+
+.counter{		
+	padding-top: 50px;	
+	color:orange;
+	font-size: 50px;
+	font-family: lato;
+	text-align: center;	
+}
+
+.downloads .image2{
+	text-align: center;
+	padding-top: 12px;
+}
+
+.downloads .text{		
+	padding-top: 12px;
+	font-size: 24px;
+	text-align: center;
+	font-family: Vollkorn;
+	color:white;
+	padding-bottom: 76px;
+}
+
+.rating{	
+}
+
+.customers{	
+}
+
+.comments{	
+}
+
